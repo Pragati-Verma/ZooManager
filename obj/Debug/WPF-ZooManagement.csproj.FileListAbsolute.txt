@@ -1,0 +1,15 @@
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\bin\Debug\WPF-ZooManagement.exe.config
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\bin\Debug\WPF-ZooManagement.exe
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\bin\Debug\WPF-ZooManagement.pdb
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.csproj.AssemblyReference.cache
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\MainWindow.g.cs
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\App.g.cs
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement_MarkupCompile.cache
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement_MarkupCompile.lref
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\MainWindow.baml
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.g.resources
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF_ZooManagement.Properties.Resources.resources
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.csproj.GenerateResource.cache
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.csproj.CoreCompileInputs.cache
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.exe
+D:\Practice\Udemy\C# Complete Masterclass\WPF-ZooManagement\obj\Debug\WPF-ZooManagement.pdb
